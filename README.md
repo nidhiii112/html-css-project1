@@ -8,7 +8,7 @@
 
 # GO LIVE --
 
-https://nidhiii112.github.io/html-css-project1/
+https://nidhiii112.github.io/html-css-project1/ 
 
 
 
